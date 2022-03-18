@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning , ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  - LinkedIn : <https://www.linkedin.com/in/juan-herrera-v/>
 
 <!---
 juanmherrerav/juanmherrerav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
