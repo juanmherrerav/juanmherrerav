@@ -9,6 +9,7 @@
   - email: juanm.herrerav@gmail.com
   - [@tonijuex](https://twitter.com/tonijuex) on Twitter
 - 😄 Pronouns: he/him
+- 🧑‍💻 [My CV in JSON Resume](https://registry.jsonresume.org/juanmherrerav?theme=autumn)
 - ⚡ Fun fact: ...
 
 <p align="left"> 
