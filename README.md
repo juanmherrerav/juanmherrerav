@@ -8,8 +8,7 @@
   - LinkedIn : <https://www.linkedin.com/in/juan-herrera-v/>
   - email: juanm.herrerav@gmail.com
   - [@tonijuex](https://twitter.com/tonijuex) on Twitter
-- 😄 Pronouns: he/him
-- 🧑‍💻 [My CV in JSON Resume](https://registry.jsonresume.org/juanmherrerav?theme=autumn)
+- 🧑‍💻 [My CV in JSON Resume](https://registry.jsonresume.org/juanmherrerav?theme=elegant)
 - ⚡ Fun fact: ...
 
 [//]: <> (This is also a comment.)
